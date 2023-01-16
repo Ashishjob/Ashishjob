@@ -9,9 +9,13 @@
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
 </div>
-
-
-### Hey there, I'm Ashish👋
+<div id="profileviews" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashishjob&style=flat-square&color=blue" alt=""/>
+</div>
+<h1 align="center">
+  Hey there, I'm Ashish
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### About Me
 - Pronouns: He/Him
@@ -20,8 +24,9 @@
 - I am still relatively new to the field of Computer Science, but I am eager to learn and gain experience as much as I can!  
 
 ### What I am a part of
-- **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064583638081097929/Icon_Size_CougarCS_Tutor.png" />
 - **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
+
+- **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064583638081097929/Icon_Size_CougarCS_Tutor.png" />
 
 ### How to reach me
 - :mailbox: : ashishjob104@gmail.com
