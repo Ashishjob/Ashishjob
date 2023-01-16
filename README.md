@@ -11,7 +11,7 @@
 
 - **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064583638081097929/Icon_Size_CougarCS_Tutor.png" />
 
-### How to reach me
+### How to reach me:
 - :mailbox: : ashishjob104@gmail.com
 - :link: : https://www.linkedin.com/in/ashish-job/
 
