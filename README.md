@@ -32,7 +32,7 @@
 
 - **Team Member** at CougarCS InfoSec <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/991559564669489203/991561925689360486/unknown.png" />
 
-- **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064583638081097929/Icon_Size_CougarCS_Tutor.png" />
+- **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/847703823455354901/985312741789163590/cougarheadRedoTutoringT.png" />
 
 ### How to reach me
 - :mailbox: : ashishjob104@gmail.com
