@@ -17,13 +17,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### About Me
+### About Me:
 - Pronouns: He/Him
 - I am currently a student at the Honors College of the University of Houston.  
 - I am majoring in Computer Science and minoring in Math.  
 - I am always eager to learn and gain as much experience and knoweldge as I can!  
 
-### What I am a part of
+### What I am a part of:
 - **Exeutive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
 
 - **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1066956886982795304/8SlRtnys03P08AsJ2J876EbDurTg7yejNOB7y6fPFyMjIyMjIyMjIaKXAbh3JCkIbFtNAAAAAElFTkSuQmCC.png" />
@@ -34,7 +34,7 @@
 
 - **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/847703823455354901/985312741789163590/cougarheadRedoTutoringT.png" />
 
-### How to reach me
+### How to reach me/Links:
 - :mailbox: : ashishjob104@gmail.com
 - :link: : https://www.linkedin.com/in/ashish-job/
 - 🍱   :  https://bento.me/ashishjob
