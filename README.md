@@ -30,6 +30,8 @@
 
 - **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
 
+- **Developer** at CougarCS WebDev <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1082659438713917532/image__7_-removebg-preview.png" />
+
 - **Team Member** at CougarCS InfoSec <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/991559564669489203/991561925689360486/unknown.png" />
 
 - **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/847703823455354901/985312741789163590/cougarheadRedoTutoringT.png" />
