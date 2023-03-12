@@ -24,7 +24,7 @@
 - I am always eager to learn and gain as much experience and knoweldge as I can!  
 
 ### What I am a part of:
-- **Spring 2023 Cybersecurity Intern** at Chrystallis.AI <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C4D0BAQGgbBlK9vHQRw/company-logo_100_100/0/1649099954216?e=1686787200&v=beta&t=Pnww5Lw_jUSvGW3j6mZOdS3sl7nTbV3PcX2UYGjkHWc" />
+- **Spring 2023 Cybersecurity Intern** at Chrysallis.AI <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C4D0BAQGgbBlK9vHQRw/company-logo_100_100/0/1649099954216?e=1686787200&v=beta&t=Pnww5Lw_jUSvGW3j6mZOdS3sl7nTbV3PcX2UYGjkHWc" />
 
 - **Exeutive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
 
