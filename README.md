@@ -28,8 +28,6 @@
 
 - **Exeutive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
 
-- **Private Tutor** at Coder Kids <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C510BAQGCx0y2UBf3Iw/company-logo_200_200/0/1519904144137?e=1686182400&v=beta&t=-ggVYS0Lvebzj9jXMTP19CCFoWlE-3Ku6ls8F6zaZeM" />
-
 - **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1066956886982795304/8SlRtnys03P08AsJ2J876EbDurTg7yejNOB7y6fPFyMjIyMjIyMjIaKXAbh3JCkIbFtNAAAAAElFTkSuQmCC.png" />
 
 - **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
