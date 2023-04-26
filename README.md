@@ -49,10 +49,11 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashishjob&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishjob&layout=compact&theme=vision-friendly-dark)](https://github.com/Ashishjob/github-readme-stats)
- -->
- 
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=Ashishjob&show_icons=true"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashishjob&layout=compact"/>
+
+<div align = "center" >
+<!--   <img src="![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashishjob&theme=dark&show_icons=true)"/> -->
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishjob&layout=compact&theme=vision-friendly-dark)](https://github.com/Ashishjob/github-readme-stats)
 
