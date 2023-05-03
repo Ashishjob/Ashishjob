@@ -23,9 +23,7 @@
 - I am majoring in Computer Science and minoring in Math.  
 - I am always eager to learn and gain as much experience and knoweldge as I can!  
 
-### What I am a part of:
-- **Spring 2023 Cybersecurity Intern** at Chrysallis.AI <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C4D0BAQGgbBlK9vHQRw/company-logo_100_100/0/1649099954216?e=1686787200&v=beta&t=Pnww5Lw_jUSvGW3j6mZOdS3sl7nTbV3PcX2UYGjkHWc" />
-
+### Current Experiences:
 - **Exeutive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
 
 - **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1066956886982795304/8SlRtnys03P08AsJ2J876EbDurTg7yejNOB7y6fPFyMjIyMjIyMjIaKXAbh3JCkIbFtNAAAAAElFTkSuQmCC.png" />
@@ -39,6 +37,9 @@
 - **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/847703823455354901/985312741789163590/cougarheadRedoTutoringT.png" />
 
 - **Social Media Chair** at IEEE - NSM <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1085770122041499728/1090019358916489246/8IAn2cUmYozKXHPo-301382663_444839051016783_1751623589631765924_n.png" />
+
+### Past Experiences:
+- **Spring 2023 Cybersecurity Intern** at Chrysallis.AI <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C4D0BAQGgbBlK9vHQRw/company-logo_100_100/0/1649099954216?e=1686787200&v=beta&t=Pnww5Lw_jUSvGW3j6mZOdS3sl7nTbV3PcX2UYGjkHWc" />
 
 ### How to reach me/Links:
 - :mailbox: : ashishjob104@gmail.com
