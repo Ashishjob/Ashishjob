@@ -46,7 +46,7 @@ src="https://cdn.discordapp.com/attachments/800523149241352233/11038889743275950
 - **Social Media Chair** at IEEE - NSM <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1085770122041499728/1090019358916489246/8IAn2cUmYozKXHPo-301382663_444839051016783_1751623589631765924_n.png" />
 
 ### Past Experiences:
-- **Spring 2023 Cybersecurity Intern** at Chrysallis.AI <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C4D0BAQGgbBlK9vHQRw/company-logo_100_100/0/1649099954216?e=1686787200&v=beta&t=Pnww5Lw_jUSvGW3j6mZOdS3sl7nTbV3PcX2UYGjkHWc" />
+- **Spring 2023 Cybersecurity Intern** at Chrysallis.AI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105173611687465161/image.png" />
 
 ### How to reach me/Links:
 - :mailbox: : ashishjob104@gmail.com
