@@ -33,7 +33,7 @@ src="https://cdn.discordapp.com/attachments/800523149241352233/11038889743275950
 
 - **Exeutive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
 
-- **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1066956886982795304/8SlRtnys03P08AsJ2J876EbDurTg7yejNOB7y6fPFyMjIyMjIyMjIaKXAbh3JCkIbFtNAAAAAElFTkSuQmCC.png" />
+- **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105176947304177784/image.png" />
 
 - **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
 
