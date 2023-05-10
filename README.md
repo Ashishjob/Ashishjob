@@ -31,7 +31,7 @@ src="https://cdn.discordapp.com/attachments/800523149241352233/11038893133238272
 - **Logistics Officer** for CodeRED <img align="left" alt="Java" width="30px" 
 src="https://cdn.discordapp.com/attachments/800523149241352233/1103888974327595018/0dtx5k7S6fBvJPpecayIH3OJnbPt1FuD9O61iPMMtfdAAAAABJRU5ErkJggg.png" />
 
-- **Exeutive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
+- **Executive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
 
 - **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105176947304177784/image.png" />
 
