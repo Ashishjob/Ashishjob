@@ -31,22 +31,23 @@ src="https://cdn.discordapp.com/attachments/800523149241352233/11038893133238272
 - **Logistics Officer** for CodeRED <img align="left" alt="Java" width="30px" 
 src="https://cdn.discordapp.com/attachments/800523149241352233/1103888974327595018/0dtx5k7S6fBvJPpecayIH3OJnbPt1FuD9O61iPMMtfdAAAAABJRU5ErkJggg.png" />
 
-- **Executive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
-
-- **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105176947304177784/image.png" />
-
-- **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
-
-- **Developer** at CougarCS WebDev <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1082659438713917532/image__7_-removebg-preview.png" />
+- **Web Developer** at CougarCS WebDev <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1082659438713917532/image__7_-removebg-preview.png" />
 
 - **Team Member** at CougarCS InfoSec <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/991559564669489203/991561925689360486/unknown.png" />
 
 - **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/847703823455354901/985312741789163590/cougarheadRedoTutoringT.png" />
 
-- **Social Media Chair** at IEEE - NSM <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1085770122041499728/1090019358916489246/8IAn2cUmYozKXHPo-301382663_444839051016783_1751623589631765924_n.png" />
+- **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
+
 
 ### Past Experiences:
 - **Spring 2023 Cybersecurity Intern** at Chrysallis.AI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105173611687465161/image.png" />
+
+- **Social Media Chair** at IEEE - NSM <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1085770122041499728/1090019358916489246/8IAn2cUmYozKXHPo-301382663_444839051016783_1751623589631765924_n.png" />
+
+- **Executive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
+
+- **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105176947304177784/image.png" />
 
 ### How to reach me/Links:
 - :mailbox: : ashishjob104@gmail.com
