@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/ashish-job/">
+   <a href="https://www.linkedin.com/in/ashish-job/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://ashishjob104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
- <a href="https://www.ashishjob.com/">
+ <a href="https://www.ashishjob.com/" target="_blank">
   <img src="https://img.shields.io/badge/%20Website-lightgreen?style=for-the-badge&logo=googlechrome&logoColor=gray" alt="Website Badge"/>
 </a>
 
