@@ -27,6 +27,8 @@
 
 - **Undergraduate Researcher** at Structures & Artificial Intelligence Lab (SAIL) <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1115683843077308548/image.png" />
 
+- **University Quantum Network (UQN) Member** at Qubit x Qubit <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1117938933209256058/1122211466225909800/qubit_logo_singleQ_white202.png" />
+
 - **Relations Officer** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105176947304177784/image.png" />
 
 - **Teams Director** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
