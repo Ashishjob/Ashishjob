@@ -8,6 +8,10 @@
   <a href="https://ashishjob104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
+ <a href="https://ashishjob.com/">
+  <img src="https://img.shields.io/badge/%20Website-lightgreen?style=for-the-badge&logo=googlechrome&logoColor=gray" alt="Website Badge"/>
+</a>
+
 </div>
 <div id="profileviews" align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashishjob&style=flat-square&color=blue" alt=""/>
