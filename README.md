@@ -29,6 +29,8 @@
 
 ### Current Experiences:
 
+- **Academic Support Assistant** at University of Houston - College of NSM - Dept. of CS <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C560BAQFZe2KMEZXI9w/company-logo_100_100/0/1679423830732?e=1703116800&v=beta&t=uyWjH-M1tgqoJzi12E-i7mxVljxq4otFyU8Mi875Zuo" />
+
 - **Undergraduate Researcher** at Structures & Artificial Intelligence Lab (SAIL) <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1115683843077308548/image.png" />
 
 - **University Quantum Network (UQN) Member** at Qubit x Qubit <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1117938933209256058/1122211466225909800/qubit_logo_singleQ_white202.png" />
@@ -46,15 +48,14 @@ src="https://cdn.discordapp.com/attachments/800523149241352233/11038889743275950
 
 - **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/847703823455354901/985312741789163590/cougarheadRedoTutoringT.png" />
 
-- **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
-
-
 ### Past Experiences:
 - **Spring 2023 Cybersecurity Intern** at Chrysallis.AI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105173611687465161/image.png" />
 
 - **Social Media Chair** at IEEE - NSM <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1085770122041499728/1090019358916489246/8IAn2cUmYozKXHPo-301382663_444839051016783_1751623589631765924_n.png" />
 
 - **Executive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
+
+- **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
 
 - **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105176947304177784/image.png" />
 
