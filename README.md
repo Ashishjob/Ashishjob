@@ -49,7 +49,7 @@ src="https://cdn.discordapp.com/attachments/800523149241352233/11038889743275950
 - **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/847703823455354901/985312741789163590/cougarheadRedoTutoringT.png" />
 
 ### Past Experiences:
-- **Spring 2023 Cybersecurity Intern** at Cyvergance.AI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105173611687465161/image.png" />
+- **Spring 2023 Cybersecurity Intern** at Cyvergance.AI <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/D4E0BAQHa63CqeY3J_w/company-logo_100_100/0/1688031128361?e=1703116800&v=beta&t=fWB8xNytflO6CVsLGWJ-tC38U7qCNMmst_B8gIgD2mM" />
 
 - **Social Media Chair** at IEEE - NSM <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1085770122041499728/1090019358916489246/8IAn2cUmYozKXHPo-301382663_444839051016783_1751623589631765924_n.png" />
 
