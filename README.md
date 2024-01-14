@@ -29,7 +29,7 @@
 
 ### Current Experiences:
 
-- **Incoming Machine Learning Intern** at NASA <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/a447e4fc-fbda-4d05-ae21-c9383789e77c" />
+- **Machine Learning Intern** at NASA <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/a447e4fc-fbda-4d05-ae21-c9383789e77c" />
 
 - **Academic Support Assistant** at University of Houston - College of NSM - Dept. of CS <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/139f6c9e-cb55-480f-9866-d1c1416cb911" />
 
