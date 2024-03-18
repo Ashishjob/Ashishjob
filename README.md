@@ -34,32 +34,28 @@
 - **Academic Support Assistant** at University of Houston - College of NSM - Dept. of CS <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/139f6c9e-cb55-480f-9866-d1c1416cb911" />
 
 - **Logistics Officer** for CodeRED <img align="left" alt="Java" width="30px" 
-src="https://cdn.discordapp.com/attachments/800523149241352233/1103888974327595018/0dtx5k7S6fBvJPpecayIH3OJnbPt1FuD9O61iPMMtfdAAAAABJRU5ErkJggg.png" />
+src="https://github.com/Ashishjob/Ashishjob/assets/114624617/7817a692-a007-4db8-a310-5fadca1dec53" />
 
 - **Web Developer** at CougarCS WebDev <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/d98492fa-f95b-44b2-9637-0da34d722c06" />
 
 
 ### Past Experiences:
 
-- **Undergraduate Researcher** at Structures & Artificial Intelligence Lab (SAIL) <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1115683843077308548/image.png" />
+- **Undergraduate Researcher** at Structures & Artificial Intelligence Lab (SAIL) <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/e6ba724d-54e3-486a-8ac8-4bb3b1dc909e" />
 
-- **University Quantum Network (UQN) Member** at Qubit x Qubit <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1117938933209256058/1122211466225909800/qubit_logo_singleQ_white202.png" />
+- **Vice President Internal** at CougarAI <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/21e00dda-aae5-465f-97e6-bab93faf0bbc" />
 
-- **Vice President Internal** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105176947304177784/image.png" />
-
-- **Teams Director** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
+- **Teams Director** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/8c0783b9-62ea-482e-b08e-de75c6dd9417" />
 
 - **Spring 2023 Cybersecurity Intern** at Cyvergance.AI <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/54f9548f-3b07-4444-98d7-8e8f3ceae8a4" />
 
-- **Social Media Chair** at IEEE - NSM <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1085770122041499728/1090019358916489246/8IAn2cUmYozKXHPo-301382663_444839051016783_1751623589631765924_n.png" />
-
 - **Team Member** at CougarCS InfoSec <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/d98492fa-f95b-44b2-9637-0da34d722c06" />
 
-- **Executive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
+- **Executive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/8c0783b9-62ea-482e-b08e-de75c6dd9417" />
 
-- **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
+- **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/8c0783b9-62ea-482e-b08e-de75c6dd9417" />
 
-- **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1105176947304177784/image.png" />
+- **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/21e00dda-aae5-465f-97e6-bab93faf0bbc" />
 
 - **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/d98492fa-f95b-44b2-9637-0da34d722c06" />
 
