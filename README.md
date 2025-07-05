@@ -23,45 +23,8 @@
 
 ### About Me:
 - Pronouns: He/Him
-- I am currently a student at the Honors College of the University of Houston.  
-- I am majoring in Computer Science and minoring in Math.  
-- I am always eager to learn and gain as much experience and knowledge as I can!  
-
-### Current Experiences:
-
-- **Incoming Fall '24 Machine Learning Engineer Intern** at NASA <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/a447e4fc-fbda-4d05-ae21-c9383789e77c" />
-
-- **Incoming Summer '24 SEP Intern** at J. P. Morgan Chase <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/ba95851e-2e48-426e-aba2-40444d9893fc" />
-
-- **Spring '24 Machine Learning Engineer Intern** at NASA <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/a447e4fc-fbda-4d05-ae21-c9383789e77c" />
-
-- **Academic Support Assistant** at University of Houston - College of NSM - Dept. of CS <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/139f6c9e-cb55-480f-9866-d1c1416cb911" />
-
-- **Vice President** at CougarCS <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/d98492fa-f95b-44b2-9637-0da34d722c06" />
-
-### Past Experiences:
-
-- **Undergraduate Researcher** at Structures & Artificial Intelligence Lab (SAIL) <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/e6ba724d-54e3-486a-8ac8-4bb3b1dc909e" />
-
-- **Web Developer** at CougarCS WebDev <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/d98492fa-f95b-44b2-9637-0da34d722c06" />
-
-- **Logistics Officer** for CodeRED <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/7817a692-a007-4db8-a310-5fadca1dec53" />
-
-- **Vice President Internal** at CougarAI <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/21e00dda-aae5-465f-97e6-bab93faf0bbc" />
-
-- **Teams Director** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/8c0783b9-62ea-482e-b08e-de75c6dd9417" />
-
-- **Spring 2023 Cybersecurity Intern** at Cyvergance.AI <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/54f9548f-3b07-4444-98d7-8e8f3ceae8a4" />
-
-- **Team Member** at CougarCS InfoSec <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/d98492fa-f95b-44b2-9637-0da34d722c06" />
-
-- **Executive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/8c0783b9-62ea-482e-b08e-de75c6dd9417" />
-
-- **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/8c0783b9-62ea-482e-b08e-de75c6dd9417" />
-
-- **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/21e00dda-aae5-465f-97e6-bab93faf0bbc" />
-
-- **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/d98492fa-f95b-44b2-9637-0da34d722c06" />
+- I am a University of Houston alum with a CS Major.  
+- **Software Engineer** at J. P. Morgan Chase <img align="left" alt="Java" width="30px" src="https://github.com/Ashishjob/Ashishjob/assets/114624617/ba95851e-2e48-426e-aba2-40444d9893fc" />
 
 ### How to reach me/Links:
 - :mailbox: : ashishjob104@gmail.com
